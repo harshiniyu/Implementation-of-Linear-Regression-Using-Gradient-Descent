@@ -9,10 +9,15 @@ To write a program to predict the profit of a city using the linear regression m
 
 ## Algorithm
 Step-1: Start
+
 Step-2: Intialize weights randomly. 
+
 Step-3: Compute predicted. 
+
 Step-4: Compute gradient of loss function.
+
 Step-5: Update weights using gradient descent.
+
 Step-6: End
 
 ## Program:
