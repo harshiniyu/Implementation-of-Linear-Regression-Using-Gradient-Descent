@@ -59,6 +59,7 @@ print(f"Predicted value: {pre}")
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/ff3fc69f-301c-49bc-9aff-199519426b55)
+
 ![image](https://github.com/user-attachments/assets/9b5b03c4-8d01-4e4c-8c85-278fb929bec9)
 
 
